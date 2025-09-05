@@ -1,0 +1,8 @@
+---
+- name: Configure EKS worker nodes
+  hosts: all
+  become: yes
+  tasks:
+    - name: TODO - Install monitoring agent on nodes
+      debug:
+        msg: "This is where Ansible would install Node Exporter or another tool."
