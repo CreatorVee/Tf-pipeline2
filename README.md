@@ -123,8 +123,8 @@ Applies Terraform provisioning
 ##  What I Learned
 
 - **Terraform** → Writing infrastructure as code to automate the creation of servers, networks, and cloud resources.  
-- **Ansible** → Managing configurations and automating repetitive setup tasks across multiple machines,however in this case i used ansible as a placeholder,furthermore, i was able to understand  the role it plays in the configuraiton aspect.
-- **Python** → Creating validation and helper scripts to test deployments and ensure reliability,in addition ialso used pyhton as a placehodler in this proejct howevr,it didnt stop me from undnerstanding how python can help avoid bugs  and help the ci/cd proccess run smmoother with the hope of no bugs or fixes.  
+- **Ansible** → Managing configurations and automating repetitive setup tasks across multiple machines,however in this case i used ansible as a placeholder,furthermore, i was able to understand  the role it plays in the configuration aspect.
+- **Python** → Creating validation and helper scripts to test deployments and ensure reliability,in addition i also used pyhton as a placeholder in this project however,it didnt stop me from understanding how python can help avoid bugs  and help the ci/cd proccess run smmoother with the hope of no bugs or fixes.  
 - **Jenkins** → Building CI/CD pipelines that automate code builds, tests, and deployments.  
 - **AWS, Kubernetes, and Docker** → Understanding how cloud services, containerization, and orchestration work together in modern DevOps workflows.  
 - **Git & GitHub** → Version control, branching, and collaborating effectively using pull requests.  
