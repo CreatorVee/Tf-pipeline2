@@ -136,8 +136,6 @@ Applies Terraform provisioning
 <img width="1920" height="1032" alt="2025-05-20_21h36_57" src="https://github.com/user-attachments/assets/9f8c955d-d9d2-4446-991a-510d4b5f477c" />
 
 
-<img width="816" height="698" alt="2025-09-11_10h40_25" src="https://github.com/user-attachments/assets/769f2c85-c4a4-465e-9418-462bdbdbf288" />
-
 
 
 ---
