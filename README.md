@@ -1,4 +1,8 @@
- DevOps E2E Project
+# DevOps E2E Project
+
+
+
+
 
 This project demonstrates an end-to-end DevOps pipeline using Terraform, Ansible, Python, Jenkins, AWS, Kubernetes, and Docker.
 The goal is to show how different DevOps tools work together to automate infrastructure, configuration, validation, and deployment.
