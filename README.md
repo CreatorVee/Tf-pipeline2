@@ -28,7 +28,7 @@ The goal is to show how different DevOps tools work together to automate infrast
 
 This project ties together infrastructure provisioning, configuration management, validation, and CI/CD automation into a single workflow.
 
-🔑 Key Features
+ Key Features
 
 Terraform creates AWS EKS clusters
 
@@ -43,7 +43,7 @@ AWS + Kubernetes + Docker for scalable cloud deployments
 
 ---
 
-📂 Project Structure
+Project Structure
 devops-e2e/
 ├── backend.tf      # Terraform backend configuration  
 ├── main.tf         # Terraform infrastructure (AWS EKS cluster)  
@@ -54,7 +54,7 @@ devops-e2e/
 
 ---
 
-⚙️ Setup & Run
+ Setup & Run
 1. Clone the Repository
 git clone <repo-url>
 cd <repo-folder>
@@ -88,8 +88,8 @@ Applies Terraform provisioning
 ---
 
 
-✅ Problems & Solutions
-## 🔧 Problems and Solutions
+ Problems & Solutions
+##  Problems and Solutions
 
 ### Terraform
 - **Problem (Before):** Setting up infrastructure like EKS clusters manually on AWS was time-consuming, repetitive, and prone to human error.  
