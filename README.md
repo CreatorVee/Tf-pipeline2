@@ -7,12 +7,11 @@ The goal is to show how different DevOps tools work together to automate infrast
 
 🛠 Tech Stack
 
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/CreatorVee/Tf-pipeline/tree/features/solutions/python)
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/CreatorVee/Tf-pipeline/blob/features/solutions/ansible/playbook.yml)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/CreatorVee/Tf-pipeline/blob/features/solutions/eks-cluster.tf)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/CreatorVee/Tf-pipeline/blob/features/solutions/variables.tf)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://github.com/CreatorVee/Tf-pipeline/blob/features/solutions/Jenkinsfile)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/CreatorVee/Tf-pipeline/tree/features/solutions/python)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/CreatorVee/Tf-pipeline/blob/features/solutions/ansible/playbook.yml)
 
 
 ---
